@@ -2,6 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\post",
+    "\\post\\templates",
+    "\\post\\templates\\post",
     "\\project"
   ],
   "SelectedNode": "\\post\\urls.py",
